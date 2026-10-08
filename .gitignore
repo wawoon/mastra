@@ -30,3 +30,8 @@ memory.db-*
 # Test directories
 voice/**/test-outputs/
 voice/**/test-data/
+
+# >>> gx-env >>>
+# Plaintext written by gx-env inject. Never commit these.
+.env.local
+# <<< gx-env <<<
